@@ -1,0 +1,23 @@
+{
+  "name": "web-scraping-gitlab",
+  "version": "1.0.0",
+  "description": "\"# web-scraping-gitlab\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebYapura/web-scraping-gitlab.git"
+  },
+  "author": "kaleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebYapura/web-scraping-gitlab/issues"
+  },
+  "homepage": "https://github.com/CalebYapura/web-scraping-gitlab#readme",
+  "dependencies": {
+    "chromedriver": "^102.0.0",
+    "selenium-webdriver": "^4.2.0"
+  }
+}
